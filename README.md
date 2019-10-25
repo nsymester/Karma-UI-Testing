@@ -14,7 +14,7 @@ Sample project setting up Karma to run Mocha tests, also using Chai for assertio
 
 - If you're using BDD to evaluate your tests then use the styles `expect` and `should`.
 
-Both use the same chainable language to construct assertions, but they differ in the way an assertion is initially constructed.
+  - Both use the same chainable language to construct assertions, but they differ in the way an assertion is initially constructed.
 
 - If you're using Assert to evaluate your tests then use the style `assert`.
 
